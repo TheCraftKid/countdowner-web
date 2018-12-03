@@ -1,4 +1,5 @@
-# countdowner
+# Countdowner - A Better Countdown Timer
+**This is WIP and definitely not at beta status yet.**
 
 ## Project setup
 ```
